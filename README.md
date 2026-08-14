@@ -7,7 +7,7 @@ agents on top of them. Here I share the tools and educational content I make, wh
 way. Contributions are welcome, and not only PRs: ideas, issues and feedback count just as much.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux Omarchy](https://img.shields.io/badge/-Linux_Omarchy-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![AMD ROCm](https://img.shields.io/badge/-AMD_ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/-llama.cpp-000000?style=flat-square)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
