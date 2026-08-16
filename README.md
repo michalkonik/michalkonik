@@ -8,7 +8,6 @@ way. Contributions are welcome, and not only PRs: ideas, issues and feedback cou
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux Omarchy](https://img.shields.io/badge/-Linux_Omarchy-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![AMD ROCm](https://img.shields.io/badge/-AMD_ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/-llama.cpp-000000?style=flat-square)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
@@ -19,7 +18,6 @@ way. Contributions are welcome, and not only PRs: ideas, issues and feedback cou
 - 🌐 **[local-browser-agent](https://github.com/michal-koniu/local-browser-agent)** - a small browser agent harness for local models
 - 🧪 **[local-llm-quality-bench](https://github.com/michal-koniu/local-llm-quality-bench)** - bilingual quality evals for open models
 - ⚡ **[local-llm-perf-bench](https://github.com/michal-koniu/local-llm-perf-bench)** - inference speed benchmark for llama.cpp
-- 🔥 **[radeon-r9700-rocm-notes](https://github.com/michal-koniu/radeon-r9700-rocm-notes)** - field notes on 4× Radeon AI PRO R9700
 
 ## 🛠️ What I'm doing
 
