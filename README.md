@@ -9,7 +9,6 @@ way. Contributions are welcome, and not only PRs: ideas, issues and feedback cou
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux Omarchy](https://img.shields.io/badge/-Linux_Omarchy-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/-llama.cpp-000000?style=flat-square)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ## 🚀 Start here
 
