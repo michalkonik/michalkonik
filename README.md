@@ -9,6 +9,9 @@ way. Contributions are welcome, and not only PRs: ideas, issues and feedback cou
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux Omarchy](https://img.shields.io/badge/-Linux_Omarchy-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/-llama.cpp-000000?style=flat-square)
+![Qwen](https://img.shields.io/badge/-Qwen-615CED?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square)
+![Bielik](https://img.shields.io/badge/-Bielik-DC143C?style=flat-square)
 
 ## 🚀 Start here
 
