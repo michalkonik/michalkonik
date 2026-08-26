@@ -40,3 +40,5 @@ way. Contributions are welcome, and not only PRs: ideas, issues and feedback cou
 ### 🧭 Philosophy
 
 > Local, open-source LLMs are the best defence against the centralisation of intelligence and power.
+>
+> Agents are the biggest leverage anyone can access today.
