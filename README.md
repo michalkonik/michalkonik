@@ -15,11 +15,11 @@ way. Contributions are welcome, and not only PRs: ideas, issues and feedback cou
 
 ## 🚀 Start here
 
-- 📚 **[llm-education](https://github.com/michal-koniu/llm-education)** - courses on local LLMs and agentic apps (EN + PL)
-- 💹 **[financial-education](https://github.com/michal-koniu/financial-education)** - practical macroeconomics for investors (EN + PL)
-- 🌐 **[local-browser-agent](https://github.com/michal-koniu/local-browser-agent)** - a small browser agent harness for local models
-- 🧪 **[local-llm-quality-bench](https://github.com/michal-koniu/local-llm-quality-bench)** - bilingual quality evals for open models
-- ⚡ **[local-llm-perf-bench](https://github.com/michal-koniu/local-llm-perf-bench)** - inference speed benchmark for llama.cpp
+- 📚 **[llm-education](https://github.com/michalkonik/llm-education)** - courses on local LLMs and agentic apps (EN + PL)
+- 💹 **[financial-education](https://github.com/michalkonik/financial-education)** - practical macroeconomics for investors (EN + PL)
+- 🌐 **[local-browser-agent](https://github.com/michalkonik/local-browser-agent)** - a small browser agent harness for local models
+- 🧪 **[local-llm-quality-bench](https://github.com/michalkonik/local-llm-quality-bench)** - bilingual quality evals for open models
+- ⚡ **[local-llm-perf-bench](https://github.com/michalkonik/local-llm-perf-bench)** - inference speed benchmark for llama.cpp
 
 ## 🛠️ What I'm doing
 
