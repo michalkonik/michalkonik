@@ -36,7 +36,3 @@ way. Contributions are welcome, and not only PRs: ideas, issues and feedback cou
 
 [![X](https://img.shields.io/badge/-@local__agents-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/local_agents)
 [![LinkedIn](https://img.shields.io/badge/-Michał_K.-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-k-30429513b/)
-
-### 🧭 Philosophy
-
-> Local, open-source LLMs are the best defence against the centralisation of intelligence and power.
