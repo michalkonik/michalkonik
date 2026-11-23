@@ -12,12 +12,12 @@ Kraków, Poland.
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square)
 ![Bielik](https://img.shields.io/badge/-Bielik-DC143C?style=flat-square)
 
-The courses and tools below are the ones I use. Follow for new ones, star a repo you use, and open an issue when something is wrong. Collaboration, an idea, or a deal: the links at the bottom, or an issue on the repo it belongs to.
+The courses and tools below are the ones I use. 
 
 ## Education
 
 - **[llm-education](https://github.com/michalkonik/llm-education)**: how local models work, how to build an agent you can trust, and how to secure it. English and Polish.
-- **[financial-education](https://github.com/michalkonik/financial-education)**: practical macroeconomics for investors, from public data. English and Polish. Not advice.
+- **[financial-education](https://github.com/michalkonik/financial-education)**: practical macroeconomics for investors, from public data. English and Polish. Not financial advice.
 
 ## Local models and agent tools
 
@@ -37,5 +37,3 @@ The courses and tools below are the ones I use. Follow for new ones, star a repo
 
 [![X](https://img.shields.io/badge/-@local__agents-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/local_agents)
 [![LinkedIn](https://img.shields.io/badge/-Michał_K.-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-k-30429513b/)
-
-Also public: **[summer-houses-promo-page](https://github.com/michalkonik/summer-houses-promo-page)**, a landing page for summer-house rentals.
