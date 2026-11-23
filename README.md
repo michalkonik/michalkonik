@@ -1,8 +1,6 @@
 # Hi, I'm Michal
 
-DevOps and cloud. I currently run local LLMs on my own hardware and build agents powered by them.
-
-Kraków, Poland.
+DevOps and Cloud Engineer. I currently run local LLMs on my own hardware and build agents powered by them.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![vLLM](https://img.shields.io/badge/-vLLM-16A34A?style=flat-square)
