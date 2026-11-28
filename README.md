@@ -24,6 +24,7 @@ The courses and tools below are the ones I use.
 - **[local-llm-bench-results](https://github.com/michalkonik/local-llm-bench-results)**: quality and speed measured on a 4× Radeon rig.
 - **[local-rig-tools](https://github.com/michalkonik/local-rig-tools)**: an MCP server and a desktop GPU monitor, so a local model can do things without cloud keys.
 - **[local-rig-skills](https://github.com/michalkonik/local-rig-skills)**: agent skills for cited web research, YouTube transcripts, and a summary you can read instead of the talk.
+- **[local-browser-agent](https://github.com/michalkonik/local-browser-agent)**: a local model drives a real Chrome from a plain instruction, then writes a report. Paying, posting and deleting need approval.
 - **[autonomous-deal-hunter](https://github.com/michalkonik/autonomous-deal-hunter)**: watches used-hardware listings and estimates resale profit. It never buys.
 
 ## Financial tools
